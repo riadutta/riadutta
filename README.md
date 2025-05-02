@@ -1,7 +1,11 @@
 ## Hi there 👋
-I'm a researcher focused on development, political economy, and labor economics, with a strong interest in using unstructured data—such as satellite imagery, mobile phone usage, and text—to inform anti-poverty policy through deep learning
+I'm a researcher based in India
 
+My main areas of interest are development economics, political economy, and labor economics, using deep learning methods
 
+I'm particularly interested in using multimodal deep learning models to inform anti-poverty policy 
+
+See some of my research [here](https://riadutta.github.io/research.html)
 <!--
 **riadutta/riadutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
