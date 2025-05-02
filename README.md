@@ -1,9 +1,10 @@
-## Hi there 👋
+Hi there! 👋
+
 I'm a researcher based in India
 
-My main areas of interest are development economics, political economy, and labor economics
+My main areas of interest are  political economy, labor economics, and economic history
 
-I'm particularly interested in using multimodal deep learning models to inform anti-poverty policy 
+I'm particularly interested in working with unstructured data using multimodal deep learning models to inform anti-poverty policy 
 
 See some of my research [here](https://riadutta.github.io/research.html)
 <!--
