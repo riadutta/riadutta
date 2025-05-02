@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm a researcher focused on development, political economy, and labor economics, with a strong interest in using unstructured data—such as satellite imagery, mobile phone usage, and text—to inform anti-poverty policy through deep learning
+
 
 <!--
 **riadutta/riadutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
