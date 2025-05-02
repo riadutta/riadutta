@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a researcher based in India
 
-My main areas of interest are development economics, political economy, and labor economics, using deep learning methods
+My main areas of interest are development economics, political economy, and labor economics
 
 I'm particularly interested in using multimodal deep learning models to inform anti-poverty policy 
 
