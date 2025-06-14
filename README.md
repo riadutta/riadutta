@@ -2,7 +2,7 @@ Hi there! 👋
 
 I'm a researcher based in India
 
-My main areas of interest are  development economics, political economy and labor economics
+My main areas of interest are  development and political economy,  with a focus on governance and gender
 
 I work with unstructured data using multimodal deep learning models to inform anti-poverty policy 
 
