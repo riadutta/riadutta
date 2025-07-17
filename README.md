@@ -4,7 +4,6 @@ I'm a researcher based in India
 
 My main areas of interest are  development and political economy,  with a focus on governance and gender
 
-See some of my research [here](https://riadutta.github.io/research.html)
 <!--
 **riadutta/riadutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
